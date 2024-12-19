@@ -109,4 +109,4 @@ mkdocs serve
 ---
 
 ## Результат
-
+https://nolo7e.github.io/pythonLab1_2/
